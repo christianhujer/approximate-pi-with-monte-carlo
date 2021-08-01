@@ -1,2 +1,3 @@
 # approximate-pi-with-monte-carlo
-Approximating PI with the Monte Carlo Method
+
+Example programs for approximating PI with the Monte Carlo Method.
